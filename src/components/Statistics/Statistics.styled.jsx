@@ -36,7 +36,7 @@ export const StatItem = styled.li`
     background-color: #a48ad4;
   }
   :nth-of-type(2) {
-    background-color: #e8b97c; 
+    background-color: #455fd6;
   }
   :nth-of-type(3) {
     background-color: #e8b97c;
