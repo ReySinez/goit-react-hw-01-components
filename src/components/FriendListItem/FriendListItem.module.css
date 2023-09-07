@@ -1,0 +1,32 @@
+.item {
+  display: flex;
+  align-items: center;
+  padding: 8px;
+  gap: 16px;
+
+  border-radius: 8px;
+}
+
+.item:not(:last-child) {
+  margin-bottom: 16px;
+}
+
+.status {
+  display: block;
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+}
+
+.avatar {
+  border: 2px solid var(--primary-color);
+  padding: 4px;
+  border-radius: 4px;
+}
+
+.name {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+}

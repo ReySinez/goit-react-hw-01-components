@@ -1,0 +1,40 @@
+.description {
+  margin-bottom: 10px;
+}
+
+.avatar {
+  max-width: 200px;
+  border-radius: 50%;
+  background-color: aqua;
+}
+
+.name {
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+}
+
+.tag {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: var(--secondary-color-text);
+}
+
+.location {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: var(--secondary-color-text);
+}
