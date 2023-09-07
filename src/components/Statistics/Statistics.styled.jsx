@@ -33,19 +33,19 @@ export const StatItem = styled.li`
   background-color: aqua;
   box-shadow: 10px 1px 10px 1px #0000005c;
   :nth-of-type(1) {
-    background-color: #51c3fa;
-  }
-  :nth-of-type(2) {
-    background-color: #e8b97c;
-  }
-  :nth-of-type(3) {
     background-color: #a48ad4;
   }
+  :nth-of-type(2) {
+    background-color: #e8b97c; 
+  }
+  :nth-of-type(3) {
+    background-color: #e8b97c;
+  }
   :nth-of-type(4) {
-    background-color: #c6e771;
+    background-color: #f29696;
   }
   :nth-of-type(5) {
-    background-color: #f29696;
+    background-color: #c6e771;
   }
 `;
 
