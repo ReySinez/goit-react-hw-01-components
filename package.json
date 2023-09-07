@@ -2,7 +2,7 @@
   "name": "goit-react-hw-01-components",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ReySineze.io/goit-react-hw-01-components/",
+  "homepage": "https://ReySinez.io/goit-react-hw-01-components/",
   "dependencies": {
     "@emotion/styled": "^11.11.0",
     "@testing-library/jest-dom": "^5.16.3",
